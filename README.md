@@ -3,6 +3,6 @@ Introduction to Data Science Course.
 
 Classwork (CW) activity: _Practicing git commands and Markdown._
 
-![](dataNetwork.jpg)
+![](repoImage.png)
 
 
